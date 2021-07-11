@@ -1,0 +1,86 @@
+body{
+    background-color: rgba(227, 216, 213, 0.55);
+    margin: 0;
+    padding: 0;
+}
+
+a{
+    text-decoration: none;
+    color: #121bf5;
+}
+
+#top_div{
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+
+#top_title{
+    text-align: center;
+    color: coral;
+}
+
+#jinrishici{
+    background-color: white;
+    border-radius: 10px;
+    height: 47px;
+    width: 50%;
+    position: absolute;
+    top: 100px;
+    left: 369px;
+}
+
+#jinrishici-sentence{
+    display: block;
+    text-align: center;
+    margin-top: 13px;
+    color: coral;
+}
+
+
+#about{
+    width: 50%;
+    background-color: white;
+    border-radius: 10px;
+    position: absolute;
+    top: 101px;
+    left: 15px;
+    color: coral;
+    padding-left: 10px;
+}
+
+#py{
+    text-align: center;
+    background-color: white;
+    position: absolute;
+    top: 160px;
+    left: 15px;
+    border-radius: 10px;
+}
+
+#py_p{
+    color: coral;
+    margin-left: 10px;
+}
+
+#email{
+    background-color: white;
+    position: absolute;
+    top: 160px;
+    left: 15px;
+    border-radius: 10px;
+    color: coral;
+    padding-left: 10px;
+}
+
+#by{
+    background-color: white;
+    border-radius: 10px;
+    height: 60px;
+    position: absolute;
+    top: 1000px;
+    left: 15px;
+    text-align: center;
+}
